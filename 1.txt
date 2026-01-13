@@ -1,0 +1,1 @@
+Como ya se ha solucionado un problema con las ramas y .gitignore; El archivo 1.txt no recibirá cambios adicionales.
